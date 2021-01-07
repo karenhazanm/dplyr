@@ -58,7 +58,7 @@ peek_vars <- tidyselect::peek_vars
 #' @export
 tidyselect::contains
 #' @importFrom tidyselect ends_with
-#' @export
+
 tidyselect::ends_with
 #' @importFrom tidyselect everything
 #' @export
